@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\winform\BTVN\BTVN\bin\Debug\BTVN.exe.config
+C:\Users\Administrator\Desktop\winform\BTVN\BTVN\bin\Debug\BTVN.exe
+C:\Users\Administrator\Desktop\winform\BTVN\BTVN\bin\Debug\BTVN.pdb
+C:\Users\Administrator\Desktop\winform\BTVN\BTVN\obj\Debug\BTVN.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\winform\BTVN\BTVN\obj\Debug\BTVN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\winform\BTVN\BTVN\obj\Debug\BTVN.Properties.Resources.resources
+C:\Users\Administrator\Desktop\winform\BTVN\BTVN\obj\Debug\BTVN.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\winform\BTVN\BTVN\obj\Debug\BTVN.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\winform\BTVN\BTVN\obj\Debug\BTVN.exe
+C:\Users\Administrator\Desktop\winform\BTVN\BTVN\obj\Debug\BTVN.pdb
+C:\Users\Administrator\Desktop\winform\BTVN\BTVN\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\winform\BTVN\BTVN\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Administrator\Desktop\winform\BTVN\BTVN\obj\Debug\BTVN.csproj.CopyComplete
+C:\Users\Administrator\Desktop\winform\BTVN\BTVN\obj\Debug\BTVN.frmSV.resources
